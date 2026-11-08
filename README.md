@@ -66,7 +66,9 @@ for variant in wave dragon lotus; do
 done
 ```
 
-You can also clone the repository and copy everything in `themes/`.
+Or clone the repository and run `./install.sh`. It installs all three variants,
+or only the ones you name, for example `./install.sh dragon lotus`. `./uninstall.sh`
+takes the same names and removes them.
 
 ## Usage
 
